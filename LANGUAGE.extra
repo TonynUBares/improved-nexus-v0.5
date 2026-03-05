@@ -92,5 +92,13 @@ CVar57 = "nx_agony";
 CVar58 = "st_newrunes";
 
 
-
+NXextraVexed0 = "";
+NXextraVexed1 = "VexedNemesisRedeemer";
+NXextraVexed2 = "VexedNemesisBabySentient";
+NXextraVexed3 = "VexedNemesisGoliath";
+NXextraVexed4 = "VexedNemesisArchon";
+NXextraVexed5 = "ttk_plus1VexedNemesisSentient";
+NXextraVexed5add1 = "VexedNemesisBabySentientClone";
+NXextraVexed6 = "VexedNemesisFiend";
+NXextraVexed7 = "VexedNemesisStealthTrooper";
 
