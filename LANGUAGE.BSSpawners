@@ -1,6 +1,6 @@
 /*
 Do not modify this file for other languages!!!
-This is for the 4.1 bullshit spawns
+This is for the 4.1 chaotic spawns
 BS*monstername*Count must equal the number of entries per monster (including the 0 entry)
 BS*monstername*Total must equal the sum of their spawning chances
 BS*monstername*T must equal the sum of the spawning chances of the monster that are cut off

@@ -124,3 +124,4 @@ Another useless thing. It can be summarized as
 
 	TNT1 A 0 A_SetTics(Random(0,3)) 
 	PMKE ABCDE
+

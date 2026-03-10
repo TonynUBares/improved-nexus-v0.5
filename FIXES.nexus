@@ -1,4 +1,4 @@
-Fixes up to version 0.42:
+Fixes up to version 0.5:
 
 - Phase armor using the same sprite names of a Baron (fixed on CF's side)
 - Fixed(?) DBFG marines dealing tonnes of dmg (DamageType was "Players")

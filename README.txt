@@ -1,3 +1,4 @@
+!!!!OLD 
 Complex Doom Nexus is a project that aims to bring 3rd party creative content from many modders to Complex Doom.
 For the list of files and in which order to run them, check LOADORDER.txt
 
@@ -7,9 +8,9 @@ Clusterweapons, Clusteraddons and main Nexus content.
 
 This file also includes CF/HEM/ILCA/DUST/HPBAR
 
-Official Discord server: https://discord.com/invite/dwsWCn4WUC
-
 Clusterfuck Wiki: https://complex-cf.fandom.com/wiki/Complex_CF
+
+!!!END OLD
 
 !PLEASE NOTE!
 
@@ -19,6 +20,9 @@ If you want to use any of the mod's resources, make sure to include the proper
 credits with all the details listed in the CREDITS txt file.
 If you DON'T provide with any credits, you will not be permitted to use the mod's content.
 (If possible, i'd highly recommend you let me know first via Discord before taking action)
+
+
+Official CF4.2+ discord server: https://discord.gg/m5ExFpJdr5
 
 
 !PLEASE NOTE THIS AS WELL! [TonynUBares]

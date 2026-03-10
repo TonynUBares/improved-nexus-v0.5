@@ -1,4 +1,10 @@
-iNexus-v0.x
+iNexus-v0.5
+- Compatibility with CF4.4
+    Added LANGUAGE.specres for the NemesisSentient res script
+    
+- 
+
+iNexus-v0.41g
 - Made Nexus fully compatible with GZdoom 
 - Made Nexus compatibile with CF4.2.4+ and all the available gzdoom mod patches
 - Removed every single fucking blyat console error that these cursed addons had!

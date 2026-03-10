@@ -278,9 +278,10 @@ PainElemental14 = "Carrier";				PainElemental14Chance = 7;
 
 PainElementalBossCount = 5;
 PainElementalBoss0 = "";					PainElementalBoss0Chance = 0;
-PainElementalBoss1 = "LegendaryTormentor";		PainElementalBoss1Chance = 60;
-PainElementalBoss2 = "EnragedLegendaryTormentor";	PainElementalBoss2Chance = 30;
-PainElementalBoss3 = "NemesisTormentor";			PainElementalBoss3Chance = 9;
+PainElementalBoss1 = "LegendaryTormentor";		PainElementalBoss1Chance = 40;
+PainElementalBoss2 = "LegendaryTormentor";		PainElementalBoss1Chance = 20;
+PainElementalBoss3 = "EnragedLegendaryTormentor";	PainElementalBoss2Chance = 30;
+PainElementalBoss4 = "NemesisTormentor";			PainElementalBoss3Chance = 9;
 PainElementalBoss5 = "NemesisTormentor";			PainElementalBoss4Chance = 1;
 
 ArachnotronCount = 20;

@@ -1,0 +1,32 @@
+/*
+This file serves a system that buffs the resurrection from the NemesisSentient. It lets the resurrected
+monsters to upgrade their class, for example from Legendary to Enraged, or from Enraged to TrueLegendary
+Works only for Legendary+ monsters. Tiers' order is:
+-T1 Legendary
+-T2 Enraged
+-T3 TrueLegendary
+-T4 Nemesis
+-T5 Vexed (technically it's in the script, should work, but I didn't like the idea of using it)
+The script checks whether the monster is Legendary+, checks its tier, selects a random monster from the same
+specie on the next tier (T1 to T2, T2 to T3, or also T1 to T3 if there are no Enraged for example).
+The string entry is composed of "CFNemSent_" + "specienum" + "_" + "tier" + "_" + "mnum".
+To add more monsters, be sure you match the specie and the tier, and increase the mnum
+*/
+
+[enu default]
+
+CFNemSent_2_T4_2 = "NemesisSuperShotgunZombie";
+
+CFNemSent_3_T1_3 = "LegendaryGeneral";
+
+CFNemSent_5_T1_4 = "LegendaryBeheadedKamikaze";
+CFNemSent_5_T4_3 = "NemesisChainsawZombie";
+
+CFNemSent_14_T1_2 = "LegendaryCybruiser";
+
+CFNemSent_17_T1_4 = "CorruptedLegendaryCardinal";
+CFNemSent_17_T2_1 = "EnragedLegendaryCyberdemon";
+
+CFNemSent_18_T1_5 = "PanzGrosse";
+CFNemSent_18_T1_6 = "TrueHitler";
+CFNemSent_18_T1_7 = "IncubusKaiser";
